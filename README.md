@@ -8,7 +8,8 @@ Add the url to be redirected
 Add the name of the png file that will contain the QR code
 Add an integer value to SCALE property. I recommend you to use 5.
 
-You can use values from 1 to N
+You can use values from 1 to N.
+
 The recommended scale values are from 1 to 10
 
 2. Go to TOOLS > Generate QR Code
