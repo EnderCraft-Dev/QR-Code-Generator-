@@ -14,8 +14,33 @@ Add an integer value to SCALE property. I recommend you to use 5.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2. Go to TOOLS > Generate QR CODE
 ![image](https://user-images.githubusercontent.com/89426850/176270368-8b2f4496-5ad1-4afc-ad1c-907b225accaf.png)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -32,8 +57,25 @@ Add an integer value to SCALE property. I recommend you to use 5.
 
 
 
+
+
+
+
+
+
 The QR code will be saved inside the same directory of the .exe file.
 ![image](https://user-images.githubusercontent.com/89426850/176270591-0c3652f4-bb2b-4343-83be-c456a1c73cc5.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
