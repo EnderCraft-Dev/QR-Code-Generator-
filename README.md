@@ -30,4 +30,6 @@ The PNG file of the QR code will be saved inside the same directory as the .exe 
 
 To download go to COMPILED > QRCode.exe > View Raw
 
+Extra: THe "RESET" button is used to clean the text fields.
+
 (This program was compiled only for Windows. If you want to run it on MacOs or Linux, you'll need to run it from the source code)
