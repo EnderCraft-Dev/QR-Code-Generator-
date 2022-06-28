@@ -24,3 +24,8 @@ The PNG file of the QR code will be saved inside the same directory as the .exe 
 
 
 ![image](https://user-images.githubusercontent.com/89426850/176271301-8d9964c9-ad53-4356-86a0-291cb8236533.png)
+
+
+
+
+To download go to COMPILED > QRCode.exe > View Raw
